@@ -43,7 +43,7 @@ const Nav = () => {
             </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#contact">
-                Contact
+                Hubungi Kami
               </a>
             </li>
           </ul>
