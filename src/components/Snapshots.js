@@ -7,6 +7,7 @@ import SnapshotItem from './SnapshotItem'
 const Snapshots = () => {
   return (
     <section className="p-0" id="snapshots">
+      <div style={{ height: '56px' }} />
       <div className="container-fluid">
         <div className="row no-gutter popup-gallery">
           <SnapshotItem

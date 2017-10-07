@@ -5,7 +5,7 @@ import 'font-awesome/css/font-awesome.css'
 
 const Header = () => {
   return (
-    <header className="masthead">
+    <header className="masthead" style={{ minHeight: '100vh' }}>
       <div className="header-content">
         <div className="header-content-inner">
           <h1 id="homeHeading">Menjalin Ukhuwah di Perantauan</h1>
