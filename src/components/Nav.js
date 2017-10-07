@@ -6,7 +6,7 @@ import 'font-awesome/css/font-awesome.css'
 const Nav = () => {
   return (
     <nav
-      className="navbar navbar-expand-lg navbar-light fixed-top"
+      className="navbar navbar-expand-lg navbar-light fixed-top navbar-shrink"
       id="mainNav"
     >
       <div className="container">
